@@ -6,17 +6,17 @@ Année académique 2021-2022
 
 Ce projet se base sur le calcul de périmètre et surface des différentes
 figures géométriques, notamment :
-Rectangle
-Cercle
-Carré
-Triangle
-Triangle Rectangle
+Rectangle;
+Cercle;
+Carré;
+Triangle;
+Triangle_Rectangle.
 
 Le Projet était fait par les étudiants :
 BAZAYAMA MBOTI ABEL 2GC
 METENA M'NTEBA YVES 2GEI
 YEKWA WAYANDIRI JOHN 2GC
 
-encadré par :
+Encadré par :
 Le professeur PAUL OLAMBA
 L'assistant Ingénieur Gaël MOBISA
